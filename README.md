@@ -35,3 +35,5 @@ HTML
 CSS
 
 JavaScript
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6bb75a34-e507-4718-abf1-fa28e2926ea6" />
+
